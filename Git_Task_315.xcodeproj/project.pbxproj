@@ -26,6 +26,7 @@
 		C37467082C2190CE00FF5335 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C374670B2C2190CE00FF5335 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C374670D2C2190CE00FF5335 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C37467392C21A4B300FF5335 /* Tempfile.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Tempfile.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 		C37466FB2C2190CC00FF5335 /* Git_Task_315 */ = {
 			isa = PBXGroup;
 			children = (
+				C37467382C21A49E00FF5335 /* ignoreGroup */,
 				C37466FC2C2190CC00FF5335 /* AppDelegate.swift */,
 				C37466FE2C2190CC00FF5335 /* SceneDelegate.swift */,
 				C37467002C2190CC00FF5335 /* ViewController.swift */,
@@ -68,6 +70,14 @@
 				C37467052C2190CC00FF5335 /* Git_Task_315.xcdatamodeld */,
 			);
 			path = Git_Task_315;
+			sourceTree = "<group>";
+		};
+		C37467382C21A49E00FF5335 /* ignoreGroup */ = {
+			isa = PBXGroup;
+			children = (
+				C37467392C21A4B300FF5335 /* Tempfile.md */,
+			);
+			path = ignoreGroup;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
